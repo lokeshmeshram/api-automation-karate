@@ -1,0 +1,29 @@
+{
+  "region": "",
+  "industryType": "",
+  "name": "",
+  "id": 0,
+  "critical": 0,
+  "high": 0,
+  "medium": 0,
+  "monitoringSystems": [
+    {
+      "credentialsKeyValue": {
+        "apiKey": "",
+        "applicationId": ""
+      },
+      "monitoringSystemName": "",
+      "monitoringToolType": ""
+    }
+  ],
+  "customerGroups": [
+    {
+      "userIds": [  ],
+      "customerGroupType": "SLO_ADMIN"
+    },
+    {
+      "userIds": [  ],
+      "customerGroupType": "SLO_VIEWER"
+    }
+  ]
+}

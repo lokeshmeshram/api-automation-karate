@@ -1,0 +1,35 @@
+{
+  "applicationService": "",
+  "name": "",
+  "sloType": "",
+  "windowType": "",
+  "critical": 0,
+  "high": 0,
+  "medium": 0,
+  "id": 0,
+  "customerId": 0,
+  "monitoringSystemId": 0,
+  "target": 0,
+  "timeWindow": 0,
+  "calendarPeriod": "",
+  "sloAlerts": [
+    {
+      "alertName": "",
+      "errorBudgetThreshold": 0,
+      "id": 0,
+      "selectedAlertTools": [
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": ""
+    }
+  ]
+}
+
